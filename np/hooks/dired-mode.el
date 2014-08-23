@@ -1,0 +1,1 @@
+(dired-omit-mode)

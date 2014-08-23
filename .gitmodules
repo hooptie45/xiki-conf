@@ -1,0 +1,15 @@
+[submodule "np/vendor/helm"]
+	path = np/vendor/helm
+	url = https://github.com/emacs-helm/helm.git
+[submodule "np/vendor/powerline"]
+	path = np/vendor/powerline
+	url = https://github.com/Dewdrops/powerline.git
+[submodule "np/vendor/evil-leader"]
+	path = np/vendor/evil-leader
+	url = https://github.com/cofi/evil-leader.git
+[submodule "https://github.com/ShingoFukuyama/helm-swoop"]
+	path = np/vendor/helm-swoop
+	url = https://github.com/ShingoFukuyama/helm-swoop
+[submodule "https://github.com/roman/evil-paredit.git"]
+	path = np/vendor/evil-paredit
+	url = https://github.com/roman/evil-paredit.git
